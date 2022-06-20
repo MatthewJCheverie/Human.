@@ -1,2 +1,2 @@
 # Human.
-A book written in HTML / CSS / JS
+A book about being human written in HTML and CSS enjoy the reading...
